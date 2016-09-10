@@ -1,4 +1,4 @@
-﻿// Task01 
+// Task01 
 // Using JavaScript and DOM hide first paragraph 
 // of target HTML document, all other elements should be visible
 
